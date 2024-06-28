@@ -1,5 +1,3 @@
-# Python-syntax-swapper
+# Python-Brainrot
 
-TO USE:
-The template.py file should always contain what is not in the """ tags in order for the program to not crash
-To edit syntax change it in the dictionary located in syntax.txt
+code using a brainrot version of python
