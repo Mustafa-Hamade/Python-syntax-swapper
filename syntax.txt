@@ -1,3 +1,8 @@
 {
-'print': 'say'
+'True':'alpha',
+'False':'beta',
+'+':'plus',
+'-':'minus',
+'=':'equals',
+'print': 'yap'
 }
